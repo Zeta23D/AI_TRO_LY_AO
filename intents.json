@@ -1,0 +1,170 @@
+{
+  "intents": [
+    {
+      "tag": "menu_chuc_nang",
+      "patterns": [
+        "giúp tôi ạ",
+        "bot có những chức năng gì ",
+        "bot có thể giúp gì cho tôi",
+        "menu",
+        "bot có những chức năng gì",
+        "bot giới thiệu về mình đi",
+        "Good day",
+        "bạn có những chức năng gì",
+        "hãy liệt kê những chức năng bạn có",
+        "chức năng",
+        "hãy kể cho tôi những chức năng bạn có",
+        "bot có thể làm được gì",
+        "bạn có thể làm được gì ",
+        "bot hãy giúp tôi",
+        "có thể làm gì",
+        "bạn hãy giới thiệu về mình đi",
+        "AI có những chức năng gì",
+        "hãy liệt kê những chức năng mà AI có",
+        "chức năng của AI là gì",
+        "hãy kể cho tôi những chức năng AI có",
+        "AI có thể làm được gì"
+      ]
+    },
+    {
+      "tag": "tam_biet",
+      "patterns": [
+        "Bye",
+        "tạm biệt",
+        "không cần",
+        "dừng lại",
+        "hẹn gặp lại",
+        "Goodbye",
+        "see you",
+        "chào tạm biệt",
+        "bạn đã vất vả rồi",
+        "bot đã vất vả rồi",
+        "AI đã vất vả rồi"
+      ]
+    },
+    {
+      "tag": "ngay_va_gio",
+      "patterns": [
+        "bây giờ là mấy giờ rồi ?",
+        "what time is it?",
+        "hiện tại là mấy giờ rồi",
+        "hôm nay là ngày mấy",
+        "mấy giờ rồi",
+        "ngày nào",
+        "lịch hôm nay",
+        "cho tôi biết là mấy giờ",
+        "cho tôi biết là ngày nào",
+        "hôm nay ngày gì "
+      ]
+    },
+    {
+      "tag": "mo_app",
+      "patterns": [
+        "tôi muốn mở app",
+        "Hãy giúp tôi mở ứng dụng zalo",
+        "Hãy giúp tôi mở ứng dụng word",
+        "Hãy giúp tôi mở ứng dụng exel",
+        "Hãy giúp tôi mở ứng dụng powerpoint",
+        "tôi muốn mở zalo",
+        "Mở phần mềm",
+        "Mở chương trình",
+        "mở app",
+        "tôi muốn mở google",
+        "tôi muốn mở Exel",
+        "tôi muốn mở Word",
+        "PowerPoint"
+      ]
+    },
+    {
+      "tag": "thoi_tiet",
+      "patterns": [
+        "xem thời tiết",
+        "tôi muốn xem thời tiết",
+        "thời tiết hôm nay",
+        "thời tiết trong ngày"
+      ]
+    },
+    {
+      "tag": "thay_hinh_nen",
+      "patterns": [
+        "hình nền xấu quá",
+        "đổi hình nền",
+        "hình nền máy tính không đẹp",
+        "máy tính xấu quá",
+        "hình này xấu quá",
+        "chán hình này quá"
+      ]
+    },
+    {
+      "tag": "xin_chao",
+      "patterns": [
+        "hi",
+        "rất vui được gặp AI",
+        "rất vui được gặp bot",
+        "rất vui được gặp bạn",
+        "hello",
+        "rất hân hạnh được gặp AI",
+        "rất hân hạnh được gặp bot",
+        "rất hân hạnh được gặp bạn",
+        "rất hân hạnh được gặp trợ lí ảo",
+        "xin chào",
+        "chào trợ lý",
+        "chào trợ lý ảo",
+        "chào",
+        "chào buổi sáng",
+        "chào buổi trưa",
+        "chào buổi chiều",
+        "chào buổi tối",
+        "chào bot"
+      ]
+    },
+    {
+      "tag": "gui_mail",
+      "patterns": [
+        "tôi muốn gửi mail",
+        "tôi muốn gửi thư",
+        "tôi muốn viết thư",
+        "gửi thư",
+        "thư điện tử",
+        "gửi tin nhắn",
+        "mail",
+        "giúp tôi gửi thư",
+        "mail dùm tôi"
+      ]
+    },
+    {
+      "tag": "tim_kiem_youtube",
+      "patterns": [
+        "mở youtube",
+        "xem video",
+        "xem youtube",
+        "tôi muốn nghe nhạc trên youtube",
+        "tôi muốn xem video trên youtube",
+        "open youtube"
+      ]
+    },
+    {
+      "tag": "giai_dap_wiki",
+      "patterns": [
+        "wiki",
+        "giải đáp cho tôi",
+        "là gì",
+        "chức năng trợ giúp",
+        "chức năng giải đáp",
+        "tra cứu wiki"
+      ]
+    },
+
+    {
+      "tag": "tim_kiem_gg",
+      "patterns": [
+        "tìm kiếm",
+        "tìm kiếm google",
+        "tìm trên google",
+        "chức năng tìm kiếm",
+        "kiếm",
+        "tìm"
+      ]
+    }
+  ]
+}
